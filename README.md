@@ -2,7 +2,7 @@
 
 I am a computer engineer specialized in Robotics, a generalist roboticist. My main expertise areas are: (1) Development of Software Systems, and (2) Robotics and Intelligent Systems.
 
-In [my scratchpad](https://dgerod.github.io) I write quick notes about things that I see in my daily work and could be interesting for other people. However, there you could also find brief explanations of some of the projects I worked. The lastest notes are:
+In [my scratchpad](https://dgerod.github.io) I write quick notes about things that I see in my daily work and could be interesting for other people. However, there you could also find brief explanations of some projects I worked. The lastest notes are:
 
 <!--START_SECTION:posts-->
 * [My Python Tricks](https://dgerod.github.io/2018/06/11/tricks-for-python-2.7.html)
