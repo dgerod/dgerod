@@ -10,6 +10,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v2.0.0
         with:
-          feed-url: https://dgerod.github.io/feed.xml
+          feed-url: https://dgerod.xyz-lab.org.es/feed.xml
           readme-section: posts
           branch: main
